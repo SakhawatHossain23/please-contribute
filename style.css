@@ -228,3 +228,51 @@ input[type="text"] {
     border-left: 5px solid rgb(248, 250, 125);
     background-color: rgb(248, 230, 196);
 }
+
+
+
+#depend {
+    font-size: 40px;
+}
+
+.top-banner-flexible-container {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 150px;
+    padding-left: 7%;
+}
+
+.top-banner-flexible-container p {
+    text-align: justify;
+    padding-right: 7%;
+    padding-bottom: 3%;
+    font-size: 16px;
+}
+
+.half-width {
+    width: 50%;
+    height: 50%;
+    padding-left: 5%;
+    padding-right: 7%;
+}
+
+.half-width p {
+    text-align: justify;
+    font-size: 16px;
+    padding-bottom: 3%;
+}
+
+.half-width img {
+    width: 80%;
+    height: 320px;
+    padding-top: 25%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
